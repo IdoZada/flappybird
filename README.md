@@ -17,7 +17,8 @@ In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 ![game-challenge](https://user-images.githubusercontent.com/48810056/115544881-d44f3480-a2ab-11eb-8548-3fc1010034db.gif)
 
 # How to play?
-* Press Mouse on the screen to make the bird fly. You needs to pass the pipes without touching them.
-* After 10 score you needs to avoid from blades.
+* Press Mouse on the screen to make the bird fly.
+* You needs to pass the pipes without touching them.
+* After you reach 10 points there is another obstacle of blades that need to be avoided.
 
 
