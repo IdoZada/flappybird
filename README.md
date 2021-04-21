@@ -18,7 +18,7 @@
 ## How to play?
 * Press Mouse on the screen to make the bird fly.
 * You needs to pass the pipes without touching them.
-* After you reach 10 points there is another obstacle of blades that need to be avoided.
+* Above 10 points there is another obstacle of blades that should be avoided.
 
 
 ## How to download and run locally on your computer?
