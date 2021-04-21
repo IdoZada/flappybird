@@ -1,5 +1,4 @@
 # Flappy Bird Game
-In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 
 ## Technologies
 * HTML5
@@ -22,11 +21,11 @@ In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 * After you reach 10 points there is another obstacle of blades that need to be avoided.
 
 
-## how to download the game
+## How to download and run locally on your computer?
 * You need to install on your computer Node.js.
 * Write in the terminal **nvm init**
 * Install the Express library, **nvm install express**
-* You need to see in the **package.json** ander the dependencies the express library.
+* You need to see in the **package.json** under the dependencies the express library.
 * Go to your browser and write an local address **http://localhost:8081**
 * The game will be displayed.
 
