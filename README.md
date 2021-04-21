@@ -1,4 +1,4 @@
-# flappybird
+# Flappy Bird Game
 In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 
 ## Technologies
