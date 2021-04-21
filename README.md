@@ -4,7 +4,9 @@ In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 ## Technologies
 * HTML5
 * CSS3
-* JavaScrip
+* JavaScript
+* Node.js
+* Express
 
 ![getready](https://user-images.githubusercontent.com/48810056/115533560-83394380-a29f-11eb-9c16-c702f4f4de7b.png)
 ![challenge](https://user-images.githubusercontent.com/48810056/115533549-80d6e980-a29f-11eb-9da4-e8c74b23d5a0.png)
