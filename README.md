@@ -9,7 +9,7 @@ In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 * Express
 
 
-
+## Illustration
 ![game](https://user-images.githubusercontent.com/48810056/115542951-80dbe700-a2a9-11eb-84d5-ca921b7f0d75.gif)
 
 ## Challenge of the game
