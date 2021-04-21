@@ -9,9 +9,11 @@ In this project I used HTML, JavaScript CSS, Node.js, Express technologies
 * Express
 
 
+
 ![game](https://user-images.githubusercontent.com/48810056/115542951-80dbe700-a2a9-11eb-84d5-ca921b7f0d75.gif)
 
-![getready](https://user-images.githubusercontent.com/48810056/115533560-83394380-a29f-11eb-9c16-c702f4f4de7b.png)
-![challenge](https://user-images.githubusercontent.com/48810056/115533549-80d6e980-a29f-11eb-9da4-e8c74b23d5a0.png)
-![game](https://user-images.githubusercontent.com/48810056/115533556-82081680-a29f-11eb-824d-fdbd035be3b1.png)
-![game_over](https://user-images.githubusercontent.com/48810056/115533558-82a0ad00-a29f-11eb-8ad5-3973adf4048c.png)
+# Challenge of the game
+
+![game-challenge](https://user-images.githubusercontent.com/48810056/115544881-d44f3480-a2ab-11eb-8548-3fc1010034db.gif)
+
+
